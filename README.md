@@ -8,9 +8,9 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/Jerry Sanghyun Lee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:sanghyun5958@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sanghyun5958@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Medium%20Tech%20Blog-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+ <a href="https://medium.com/@jerry5958" target="_blank"><img src="https://img.shields.io/badge/Medium%20Tech%20Blog-000ff?style=flat-square&logo=medium&logoColor=white"/></a>
  </p>
  
 
