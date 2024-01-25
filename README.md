@@ -1,30 +1,3 @@
-## Introduction
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7ED1F&random=false&width=435&lines=9+%2B+years+of+coding+experience;React+Native" /></a>
-</p>
-
-<h3 align="center">Hey there, I'm <a href="https://github.com/sanghyun5958">sanghyun5958</a></h3>
-<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:sanghyun5958@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sanghyun5958@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <a href="https://medium.com/@jerry5958" target="_blank"><img src="https://img.shields.io/badge/Medium%20Tech%20Blog-000ff?style=flat-square&logo=medium&logoColor=white"/></a>
- </p>
- 
-
-
-### 🤞 Nice way to meet me
-
-<p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
-  I have experience 7 years of Android development and 2 years of iOS development.<br/>
-  At present, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
-  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
-</p>
 
 
 ### 💪 Skills
@@ -43,12 +16,3 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 
-
-
-
-### 🤞 Top Respositorys
-  <p align="left">
-     <a href="https://github.com/sanghyun5958/react-native-kpop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sanghyun5958&repo=react-native-kpop&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/sanghyun5958/api-laravel-kpop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sanghyun5958&repo=api-laravel-kpop&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/sanghyun5958/react-native-modern-qrscanner"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sanghyun5958&repo=react-native-modern-qrscanner&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
